@@ -58,6 +58,20 @@ export default class App extends React.Component {
             </div>
           </div>
           <div className="row mt-4">
+            <div className="col text-center" style={{ padding: "10px" }}>
+              <div style={{ marginLeft: "10px" }}></div>
+              <a
+                class="github-button"
+                href="https://github.com/m2i-training/react101/"
+                data-icon="octicon-star"
+                data-size="large"
+                aria-label="Star m2i-training/react101 on GitHub"
+              >
+                Star
+              </a>            
+            </div>
+          </div>
+          <div className="row mt-4">
             <div className="col-md-6">
               {" "}
               <div className="col text-center">
