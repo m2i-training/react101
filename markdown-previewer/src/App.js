@@ -15,7 +15,7 @@ export default class App extends React.Component {
     
   And feel free to go crazy ~~crossing stuff out~~.
         
-  There's also [links](https://ashusingh.me), and
+  There's also
   > Block Quotes!
        
     
